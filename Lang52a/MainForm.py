@@ -31,7 +31,6 @@ class MainForm(Form):
 		self._label1.Size = System.Drawing.Size(170, 22)
 		self._label1.TabIndex = 0
 		self._label1.Text = "Length:"
-		self._label1.Click += self.Label1Click
 		# 
 		# label2
 		# 
@@ -42,7 +41,6 @@ class MainForm(Form):
 		self._label2.Size = System.Drawing.Size(170, 22)
 		self._label2.TabIndex = 1
 		self._label2.Text = "Width:"
-		self._label2.Click += self.Label2Click
 		# 
 		# label3
 		# 
@@ -53,7 +51,6 @@ class MainForm(Form):
 		self._label3.Size = System.Drawing.Size(170, 22)
 		self._label3.TabIndex = 2
 		self._label3.Text = "Area:"
-		self._label3.Click += self.Label3Click
 		# 
 		# label4
 		# 
@@ -64,7 +61,6 @@ class MainForm(Form):
 		self._label4.Size = System.Drawing.Size(172, 22)
 		self._label4.TabIndex = 3
 		self._label4.Text = "Perimeter:"
-		self._label4.Click += self.Label4Click
 		# 
 		# button1
 		# 
@@ -153,7 +149,7 @@ class MainForm(Form):
 	def Button1Click(self, sender, e):
 		length = int(self._textBox1.Text)
 		width = int(self._textBox2.Text)
-		area = length * Width
+		area = length * width
 		perim = 2 * length + 2 * width
 		self._label3.Text = "Area: " + str(area)
 		self._label4.Text = "Perimeter: " + str(perim)
