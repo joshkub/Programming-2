@@ -1,0 +1,3 @@
+C:\Users\kubala.j\Desktop\Programming 2\Lang52a\obj\x86\Debug\Lang52a.pyprojResolveAssemblyReference.cache
+C:\Users\kubala.j\Desktop\Programming 2\Lang52a\obj\x86\Debug\Lang52a.MainForm.resources
+C:\Users\kubala.j\Desktop\Programming 2\Lang52a\obj\x86\Debug\Lang52a.pyproj.GenerateResource.Cache

@@ -1,0 +1,3 @@
+C:\Users\kubala.j\Desktop\Programming 2\Hello\obj\x86\Debug\Hello.pyprojResolveAssemblyReference.cache
+C:\Users\kubala.j\Desktop\Programming 2\Hello\obj\x86\Debug\Hello.MainForm.resources
+C:\Users\kubala.j\Desktop\Programming 2\Hello\obj\x86\Debug\Hello.pyproj.GenerateResource.Cache
