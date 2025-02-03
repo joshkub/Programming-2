@@ -39,6 +39,7 @@ class MainForm(Form):
 		self._button2.TabIndex = 1
 		self._button2.Text = "Exit"
 		self._button2.UseVisualStyleBackColor = True
+		self._button2.Click += self.Button2Click
 		# 
 		# button3
 		# 
@@ -49,10 +50,11 @@ class MainForm(Form):
 		self._button3.TabIndex = 2
 		self._button3.Text = "Clear"
 		self._button3.UseVisualStyleBackColor = True
+		self._button3.Click += self.Button3Click
 		# 
 		# textBox1
 		# 
-		self._textBox1.Location = System.Drawing.Point(76, 34)
+		self._textBox1.Location = System.Drawing.Point(88, 34)
 		self._textBox1.Name = "textBox1"
 		self._textBox1.Size = System.Drawing.Size(78, 20)
 		self._textBox1.TabIndex = 3
@@ -110,7 +112,17 @@ class MainForm(Form):
 		self.PerformLayout()
 
 	def Button1Click(self, sender, e):
-		Radius = self._textBox1.Text 
-		Area = 3.14159 * (Raidus ** 2)	
-		Circum = 2 * 3.14159 * Radius
+		num1 = int(self._textBox1.Text)
+		area = 3.14159 * (num1 ** 2)	
+		circum = 2 * 3.14159 * num1
+		self._label2.Text = "Raidus: " + str(num1)
+		self._label3.Text = "Area: " + str(area)
+		self._label4.Text = "Circumference: " + str(circum)
 		
+	def Button3Click(self, sender, e):
+		self._label2.Text = "Raidus: "
+		self._label3.Text = "Area: "
+		self._label4.Text = "Circumference: " 
+	
+	def Button2Click(self, sender, e):
+		application.exit()
