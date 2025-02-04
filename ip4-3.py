@@ -1,4 +1,5 @@
 eggs = int(input("Enter # of dozen to be purchased: "))
+dozen = eggs / 12
 price = 0.0
 
 # if dozen > 0 and dozen <= 99:
