@@ -1,2 +1,9 @@
-playernum = int(input("Enter # of dozen to be purchased: "))
-computernum =  
+import random
+playernum = int(input("Enter a # between 1 & 20:"))
+computernum = random.randint(1, 20)
+print ("Computer's Number: " + str(computernum))
+print ("Player's Number: " + str(playernum))
+if playernum == computernum:
+    print ("You Won!")3
+else:
+    print ("Better luck next time.")
