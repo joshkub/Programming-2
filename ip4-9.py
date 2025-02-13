@@ -4,6 +4,6 @@ computernum = random.randint(1, 20)
 print ("Computer's Number: " + str(computernum))
 print ("Player's Number: " + str(playernum))
 if playernum == computernum:
-    print ("You Won!")3
+    print ("You Won!")
 else:
     print ("Better luck next time.")
