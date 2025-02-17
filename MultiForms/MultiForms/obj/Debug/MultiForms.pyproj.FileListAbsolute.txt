@@ -1,0 +1,13 @@
+C:\Users\kubala.j\Desktop\Programming 2\MultiForms\MultiForms\bin\Debug\MultiForms.exe.config
+C:\Users\kubala.j\Desktop\Programming 2\MultiForms\MultiForms\bin\Debug\MultiForms.exe
+C:\Users\kubala.j\Desktop\Programming 2\MultiForms\MultiForms\bin\Debug\MultiForms.dll
+C:\Users\kubala.j\Desktop\Programming 2\MultiForms\MultiForms\bin\Debug\IronPython.dll
+C:\Users\kubala.j\Desktop\Programming 2\MultiForms\MultiForms\bin\Debug\IronPython.Modules.dll
+C:\Users\kubala.j\Desktop\Programming 2\MultiForms\MultiForms\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kubala.j\Desktop\Programming 2\MultiForms\MultiForms\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kubala.j\Desktop\Programming 2\MultiForms\MultiForms\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kubala.j\Desktop\Programming 2\MultiForms\MultiForms\obj\Debug\MultiForms.pyprojResolveAssemblyReference.cache
+C:\Users\kubala.j\Desktop\Programming 2\MultiForms\MultiForms\obj\Debug\MultiForms.Form1.resources
+C:\Users\kubala.j\Desktop\Programming 2\MultiForms\MultiForms\obj\Debug\MultiForms.MainForm.resources
+C:\Users\kubala.j\Desktop\Programming 2\MultiForms\MultiForms\obj\Debug\MultiForms.pyproj.GenerateResource.Cache
+C:\Users\kubala.j\Desktop\Programming 2\MultiForms\MultiForms\obj\Debug\MultiForms.exe
