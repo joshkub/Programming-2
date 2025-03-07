@@ -10,3 +10,5 @@ C:\Users\kubala.j\Desktop\Programming 2\Pg435TicketSales\Pg435TicketSales\obj\De
 C:\Users\kubala.j\Desktop\Programming 2\Pg435TicketSales\Pg435TicketSales\obj\Debug\Pg435TicketSales.MainForm.resources
 C:\Users\kubala.j\Desktop\Programming 2\Pg435TicketSales\Pg435TicketSales\obj\Debug\Pg435TicketSales.pyproj.GenerateResource.Cache
 C:\Users\kubala.j\Desktop\Programming 2\Pg435TicketSales\Pg435TicketSales\obj\Debug\Pg435TicketSales.exe
+C:\Users\kubala.j\Desktop\Programming 2\Pg435TicketSales\Pg435TicketSales\obj\Debug\Pg435TicketSales.Form1.resources
+C:\Users\kubala.j\Desktop\Programming 2\Pg435TicketSales\Pg435TicketSales\obj\Debug\Pg435TicketSales.Form2.resources
