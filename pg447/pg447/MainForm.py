@@ -10,102 +10,131 @@ class MainForm(Form):
 	
 	def InitializeComponent(self):
 		self._menuStrip1 = System.Windows.Forms.MenuStrip()
-		self._fileToolStripMenuItem = System.Windows.Forms.ToolStripMenuItem()
-		self._colorToolStripMenuItem = System.Windows.Forms.ToolStripMenuItem()
-		self._helpToolStripMenuItem = System.Windows.Forms.ToolStripMenuItem()
-		self._exitToolStripMenuItem = System.Windows.Forms.ToolStripMenuItem()
-		self._redToolStripMenuItem = System.Windows.Forms.ToolStripMenuItem()
-		self._greenToolStripMenuItem = System.Windows.Forms.ToolStripMenuItem()
-		self._blueToolStripMenuItem = System.Windows.Forms.ToolStripMenuItem()
-		self._blackToolStripMenuItem = System.Windows.Forms.ToolStripMenuItem()
+		self._mnuFile = System.Windows.Forms.ToolStripMenuItem()
+		self._mnuColor = System.Windows.Forms.ToolStripMenuItem()
+		self._mnuHelp = System.Windows.Forms.ToolStripMenuItem()
+		self._mnuFileExit = System.Windows.Forms.ToolStripMenuItem()
+		self._mnuColorRed = System.Windows.Forms.ToolStripMenuItem()
+		self._mnuColorGreen = System.Windows.Forms.ToolStripMenuItem()
+		self._mnuColorBlue = System.Windows.Forms.ToolStripMenuItem()
+		self._mnuColorBlack = System.Windows.Forms.ToolStripMenuItem()
 		self._toolStripSeparator1 = System.Windows.Forms.ToolStripSeparator()
-		self._toolStripMenuItem1 = System.Windows.Forms.ToolStripMenuItem()
+		self._mnuColorVisible = System.Windows.Forms.ToolStripMenuItem()
+		self._mnuHelpAbout = System.Windows.Forms.ToolStripMenuItem()
+		self._lblMessage = System.Windows.Forms.Label()
 		self._menuStrip1.SuspendLayout()
 		self.SuspendLayout()
 		# 
 		# menuStrip1
 		# 
 		self._menuStrip1.Items.AddRange(System.Array[System.Windows.Forms.ToolStripItem](
-			[self._fileToolStripMenuItem,
-			self._colorToolStripMenuItem,
-			self._helpToolStripMenuItem]))
+			[self._mnuFile,
+			self._mnuColor,
+			self._mnuHelp]))
 		self._menuStrip1.Location = System.Drawing.Point(0, 0)
 		self._menuStrip1.Name = "menuStrip1"
 		self._menuStrip1.Size = System.Drawing.Size(284, 24)
 		self._menuStrip1.TabIndex = 0
 		self._menuStrip1.Text = "menuStrip1"
 		# 
-		# fileToolStripMenuItem
+		# mnuFile
 		# 
-		self._fileToolStripMenuItem.DropDownItems.AddRange(System.Array[System.Windows.Forms.ToolStripItem](
-			[self._exitToolStripMenuItem]))
-		self._fileToolStripMenuItem.Name = "fileToolStripMenuItem"
-		self._fileToolStripMenuItem.Size = System.Drawing.Size(37, 20)
-		self._fileToolStripMenuItem.Text = "File"
+		self._mnuFile.DropDownItems.AddRange(System.Array[System.Windows.Forms.ToolStripItem](
+			[self._mnuFileExit]))
+		self._mnuFile.Name = "mnuFile"
+		self._mnuFile.Size = System.Drawing.Size(37, 20)
+		self._mnuFile.Text = "File"
 		# 
-		# colorToolStripMenuItem
+		# mnuColor
 		# 
-		self._colorToolStripMenuItem.DropDownItems.AddRange(System.Array[System.Windows.Forms.ToolStripItem](
-			[self._redToolStripMenuItem,
-			self._greenToolStripMenuItem,
-			self._blueToolStripMenuItem,
-			self._blackToolStripMenuItem,
+		self._mnuColor.DropDownItems.AddRange(System.Array[System.Windows.Forms.ToolStripItem](
+			[self._mnuColorRed,
+			self._mnuColorGreen,
+			self._mnuColorBlue,
+			self._mnuColorBlack,
 			self._toolStripSeparator1,
-			self._toolStripMenuItem1]))
-		self._colorToolStripMenuItem.Name = "colorToolStripMenuItem"
-		self._colorToolStripMenuItem.Size = System.Drawing.Size(48, 20)
-		self._colorToolStripMenuItem.Text = "Color"
+			self._mnuColorVisible]))
+		self._mnuColor.Name = "mnuColor"
+		self._mnuColor.Size = System.Drawing.Size(48, 20)
+		self._mnuColor.Text = "Color"
 		# 
-		# helpToolStripMenuItem
+		# mnuHelp
 		# 
-		self._helpToolStripMenuItem.Name = "helpToolStripMenuItem"
-		self._helpToolStripMenuItem.Size = System.Drawing.Size(44, 20)
-		self._helpToolStripMenuItem.Text = "Help"
+		self._mnuHelp.DropDownItems.AddRange(System.Array[System.Windows.Forms.ToolStripItem](
+			[self._mnuHelpAbout]))
+		self._mnuHelp.Name = "mnuHelp"
+		self._mnuHelp.Size = System.Drawing.Size(44, 20)
+		self._mnuHelp.Text = "Help"
 		# 
-		# exitToolStripMenuItem
+		# mnuFileExit
 		# 
-		self._exitToolStripMenuItem.Name = "exitToolStripMenuItem"
-		self._exitToolStripMenuItem.Size = System.Drawing.Size(158, 22)
-		self._exitToolStripMenuItem.Text = "Exit        Ctrl + Q"
+		self._mnuFileExit.Name = "mnuFileExit"
+		self._mnuFileExit.Size = System.Drawing.Size(158, 22)
+		self._mnuFileExit.Text = "Exit        Ctrl + Q"
+		self._mnuFileExit.Click += self.MnuFileExitClick
 		# 
-		# redToolStripMenuItem
+		# mnuColorRed
 		# 
-		self._redToolStripMenuItem.Name = "redToolStripMenuItem"
-		self._redToolStripMenuItem.Size = System.Drawing.Size(180, 22)
-		self._redToolStripMenuItem.Text = "Red"
+		self._mnuColorRed.Name = "mnuColorRed"
+		self._mnuColorRed.Size = System.Drawing.Size(108, 22)
+		self._mnuColorRed.Text = "Red"
+		self._mnuColorRed.Click += self.MnuColorRedClick
 		# 
-		# greenToolStripMenuItem
+		# mnuColorGreen
 		# 
-		self._greenToolStripMenuItem.Name = "greenToolStripMenuItem"
-		self._greenToolStripMenuItem.Size = System.Drawing.Size(180, 22)
-		self._greenToolStripMenuItem.Text = "Green"
+		self._mnuColorGreen.Name = "mnuColorGreen"
+		self._mnuColorGreen.Size = System.Drawing.Size(108, 22)
+		self._mnuColorGreen.Text = "Green"
+		self._mnuColorGreen.Click += self.MnuColorGreenClick
 		# 
-		# blueToolStripMenuItem
+		# mnuColorBlue
 		# 
-		self._blueToolStripMenuItem.Name = "blueToolStripMenuItem"
-		self._blueToolStripMenuItem.Size = System.Drawing.Size(180, 22)
-		self._blueToolStripMenuItem.Text = "Blue"
+		self._mnuColorBlue.Name = "mnuColorBlue"
+		self._mnuColorBlue.Size = System.Drawing.Size(108, 22)
+		self._mnuColorBlue.Text = "Blue"
+		self._mnuColorBlue.Click += self.MnuColorBlueClick
 		# 
-		# blackToolStripMenuItem
+		# mnuColorBlack
 		# 
-		self._blackToolStripMenuItem.Name = "blackToolStripMenuItem"
-		self._blackToolStripMenuItem.Size = System.Drawing.Size(180, 22)
-		self._blackToolStripMenuItem.Text = "Black"
+		self._mnuColorBlack.Name = "mnuColorBlack"
+		self._mnuColorBlack.Size = System.Drawing.Size(108, 22)
+		self._mnuColorBlack.Text = "Black"
+		self._mnuColorBlack.Click += self.MnuColorBlackClick
 		# 
 		# toolStripSeparator1
 		# 
 		self._toolStripSeparator1.Name = "toolStripSeparator1"
-		self._toolStripSeparator1.Size = System.Drawing.Size(177, 6)
+		self._toolStripSeparator1.Size = System.Drawing.Size(105, 6)
 		# 
-		# toolStripMenuItem1
+		# mnuColorVisible
 		# 
-		self._toolStripMenuItem1.Name = "toolStripMenuItem1"
-		self._toolStripMenuItem1.Size = System.Drawing.Size(180, 22)
-		self._toolStripMenuItem1.Text = "toolStripMenuItem1"
+		self._mnuColorVisible.Checked = True
+		self._mnuColorVisible.CheckOnClick = True
+		self._mnuColorVisible.CheckState = System.Windows.Forms.CheckState.Checked
+		self._mnuColorVisible.Name = "mnuColorVisible"
+		self._mnuColorVisible.Size = System.Drawing.Size(108, 22)
+		self._mnuColorVisible.Text = "Visible"
+		self._mnuColorVisible.Click += self.MnuColorVisibleClick
+		# 
+		# mnuHelpAbout
+		# 
+		self._mnuHelpAbout.Name = "mnuHelpAbout"
+		self._mnuHelpAbout.Size = System.Drawing.Size(152, 22)
+		self._mnuHelpAbout.Text = "About"
+		self._mnuHelpAbout.Click += self.MnuHelpAboutClick
+		# 
+		# lblMessage
+		# 
+		self._lblMessage.Location = System.Drawing.Point(116, 168)
+		self._lblMessage.Name = "lblMessage"
+		self._lblMessage.Size = System.Drawing.Size(100, 23)
+		self._lblMessage.TabIndex = 1
+		self._lblMessage.Text = "label1"
 		# 
 		# MainForm
 		# 
 		self.ClientSize = System.Drawing.Size(284, 261)
+		self.Controls.Add(self._lblMessage)
 		self.Controls.Add(self._menuStrip1)
 		self.MainMenuStrip = self._menuStrip1
 		self.Name = "MainForm"
@@ -118,3 +147,35 @@ class MainForm(Form):
 
 	def ToolStripComboBox1Click(self, sender, e):
 		pass
+
+	def ToolStripMenuItem1Click(self, sender, e):
+		pass
+
+	def MnuColorVisibleClick(self, sender, e):
+		if self._mnuColorVisible.Checked == True:
+			self._lblMessage.Visible = True
+		else:
+			self._lblMessage.Visible = False
+
+	def MnuColorRedClick(self, sender, e):
+		self._lblMessage.ForeColor = Color.Red
+
+	def MnuColorGreenClick(self, sender, e):
+		self._lblMessage.ForeColor = Color.Green
+
+	def MnuColorBlueClick(self, sender, e):
+		self._lblMessage.ForeColor = Color.Blue
+
+	def MnuColorBlackClick(self, sender, e):
+		self._lblMessage.ForeColor = Color.Black
+
+	def MnuFileExitClick(self, sender, e):
+		Application.Exit()
+
+	def MnuHelpAboutClick(self, sender, e):
+		MessageBox.Show(
+		"Menu system demo\n"
+		"Designed for Starting Out" \
+		" with Windows Form Applications",
+		"About Menu Demo"
+		)
