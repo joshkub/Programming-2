@@ -10,3 +10,13 @@ C:\Users\kubala.j\Desktop\Programming 2\Prog54c\Prog54c\obj\Debug\Prog54c.pyproj
 C:\Users\kubala.j\Desktop\Programming 2\Prog54c\Prog54c\obj\Debug\Prog54c.MainForm.resources
 C:\Users\kubala.j\Desktop\Programming 2\Prog54c\Prog54c\obj\Debug\Prog54c.pyproj.GenerateResource.Cache
 C:\Users\kubala.j\Desktop\Programming 2\Prog54c\Prog54c\obj\Debug\Prog54c.exe
+C:\Users\kubala.j\Desktop\Programming 2\programs\Prog54c\Prog54c\bin\Debug\Prog54c.exe.config
+C:\Users\kubala.j\Desktop\Programming 2\programs\Prog54c\Prog54c\bin\Debug\Prog54c.exe
+C:\Users\kubala.j\Desktop\Programming 2\programs\Prog54c\Prog54c\bin\Debug\Prog54c.dll
+C:\Users\kubala.j\Desktop\Programming 2\programs\Prog54c\Prog54c\bin\Debug\IronPython.dll
+C:\Users\kubala.j\Desktop\Programming 2\programs\Prog54c\Prog54c\bin\Debug\IronPython.Modules.dll
+C:\Users\kubala.j\Desktop\Programming 2\programs\Prog54c\Prog54c\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kubala.j\Desktop\Programming 2\programs\Prog54c\Prog54c\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kubala.j\Desktop\Programming 2\programs\Prog54c\Prog54c\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kubala.j\Desktop\Programming 2\programs\Prog54c\Prog54c\obj\Debug\Prog54c.pyprojResolveAssemblyReference.cache
+C:\Users\kubala.j\Desktop\Programming 2\programs\Prog54c\Prog54c\obj\Debug\Prog54c.exe
