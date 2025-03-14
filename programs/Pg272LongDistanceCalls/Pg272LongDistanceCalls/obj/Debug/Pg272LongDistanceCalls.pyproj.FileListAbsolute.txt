@@ -1,0 +1,12 @@
+C:\Users\kubala.j\Desktop\Programming 2\programs\Pg272LongDistanceCalls\Pg272LongDistanceCalls\bin\Debug\Pg272LongDistanceCalls.exe.config
+C:\Users\kubala.j\Desktop\Programming 2\programs\Pg272LongDistanceCalls\Pg272LongDistanceCalls\bin\Debug\Pg272LongDistanceCalls.exe
+C:\Users\kubala.j\Desktop\Programming 2\programs\Pg272LongDistanceCalls\Pg272LongDistanceCalls\bin\Debug\Pg272LongDistanceCalls.dll
+C:\Users\kubala.j\Desktop\Programming 2\programs\Pg272LongDistanceCalls\Pg272LongDistanceCalls\bin\Debug\IronPython.dll
+C:\Users\kubala.j\Desktop\Programming 2\programs\Pg272LongDistanceCalls\Pg272LongDistanceCalls\bin\Debug\IronPython.Modules.dll
+C:\Users\kubala.j\Desktop\Programming 2\programs\Pg272LongDistanceCalls\Pg272LongDistanceCalls\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kubala.j\Desktop\Programming 2\programs\Pg272LongDistanceCalls\Pg272LongDistanceCalls\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kubala.j\Desktop\Programming 2\programs\Pg272LongDistanceCalls\Pg272LongDistanceCalls\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kubala.j\Desktop\Programming 2\programs\Pg272LongDistanceCalls\Pg272LongDistanceCalls\obj\Debug\Pg272LongDistanceCalls.pyprojResolveAssemblyReference.cache
+C:\Users\kubala.j\Desktop\Programming 2\programs\Pg272LongDistanceCalls\Pg272LongDistanceCalls\obj\Debug\Pg272LongDistanceCalls.MainForm.resources
+C:\Users\kubala.j\Desktop\Programming 2\programs\Pg272LongDistanceCalls\Pg272LongDistanceCalls\obj\Debug\Pg272LongDistanceCalls.pyproj.GenerateResource.Cache
+C:\Users\kubala.j\Desktop\Programming 2\programs\Pg272LongDistanceCalls\Pg272LongDistanceCalls\obj\Debug\Pg272LongDistanceCalls.exe
