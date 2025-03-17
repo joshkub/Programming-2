@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "Pg479ConferenceRegistration", "Pg479ConferenceRegistration\Pg479ConferenceRegistration.pyproj", "{E1765368-DFA0-4604-B410-149265593B00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1765368-DFA0-4604-B410-149265593B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1765368-DFA0-4604-B410-149265593B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1765368-DFA0-4604-B410-149265593B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1765368-DFA0-4604-B410-149265593B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
