@@ -169,7 +169,6 @@ class MainForm(Form):
 		self._label9.TabIndex = 16
 		self._label9.Text = "Total Cost:"
 		self._label9.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-		self._label9.Click += self.Label9Click
 		# 
 		# label10
 		# 
@@ -181,7 +180,6 @@ class MainForm(Form):
 		self._label10.Size = System.Drawing.Size(100, 23)
 		self._label10.TabIndex = 17
 		self._label10.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-		self._label10.Click += self.Label10Click
 		# 
 		# button3
 		# 
@@ -237,11 +235,15 @@ class MainForm(Form):
 		self.Controls.Add(self._textBox1)
 		self.Name = "MainForm"
 		self.Text = "Pg479ConferenceRegistration"
-		self.Load += self.MainFormLoad
 		self.ResumeLayout(False)
 		self.PerformLayout()
 		
 	def Button1Click(self, sender, e):
+		from Form1 import*
+		msg = self._textBox1.Text
+		form1 = Form1(self)
+		form1.Show()
+		self.Hide()
 		pass
 		
 
