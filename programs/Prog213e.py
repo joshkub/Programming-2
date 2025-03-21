@@ -21,8 +21,9 @@ for i in people:
     if i < 20:
         value += 1
         group5 += 1
-
-
-    
-
-print ()
+    per1 = round(group1/value * 100, 2)
+    per2 = round(group2/value * 100, 2)
+    per3 = round(group3/value * 100, 2)
+    per4 = round(group4/value * 100, 2)
+    per5 = round(group5/value * 100, 2)
+print (f"     Age Group\t Distribution\tPercentage\n\t <20\t\t{group1}\t{per1}\n\t 20-39\t\t{group2}\t{per2}\n\t 40-59\t\t{group3}\t{per3}\n\t 60-79\t\t{group4}\t{per4}\n\t >79\t\t{group5}\t{per5}")
