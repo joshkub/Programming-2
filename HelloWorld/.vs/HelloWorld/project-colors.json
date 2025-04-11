@@ -5,7 +5,12 @@
       "ProjectGuid": "129d1e19-d1ea-4a8e-9858-36712ed2fa21",
       "DisplayName": "HelloWorld",
       "ColorIndex": 0
+    },
+    "ce503f17-0bdf-4629-a79c-b718ed9db5b5": {
+      "ProjectGuid": "ce503f17-0bdf-4629-a79c-b718ed9db5b5",
+      "DisplayName": "Prog52a",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
