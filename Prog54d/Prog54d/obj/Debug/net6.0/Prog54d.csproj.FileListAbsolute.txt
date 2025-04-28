@@ -1,0 +1,15 @@
+C:\Users\kubala.j\Desktop\Programming 2\Prog54d\Prog54d\bin\Debug\net6.0\Prog54d.exe
+C:\Users\kubala.j\Desktop\Programming 2\Prog54d\Prog54d\bin\Debug\net6.0\Prog54d.deps.json
+C:\Users\kubala.j\Desktop\Programming 2\Prog54d\Prog54d\bin\Debug\net6.0\Prog54d.runtimeconfig.json
+C:\Users\kubala.j\Desktop\Programming 2\Prog54d\Prog54d\bin\Debug\net6.0\Prog54d.dll
+C:\Users\kubala.j\Desktop\Programming 2\Prog54d\Prog54d\bin\Debug\net6.0\ref\Prog54d.dll
+C:\Users\kubala.j\Desktop\Programming 2\Prog54d\Prog54d\bin\Debug\net6.0\Prog54d.pdb
+C:\Users\kubala.j\Desktop\Programming 2\Prog54d\Prog54d\obj\Debug\net6.0\Prog54d.csproj.AssemblyReference.cache
+C:\Users\kubala.j\Desktop\Programming 2\Prog54d\Prog54d\obj\Debug\net6.0\Prog54d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubala.j\Desktop\Programming 2\Prog54d\Prog54d\obj\Debug\net6.0\Prog54d.AssemblyInfoInputs.cache
+C:\Users\kubala.j\Desktop\Programming 2\Prog54d\Prog54d\obj\Debug\net6.0\Prog54d.AssemblyInfo.cs
+C:\Users\kubala.j\Desktop\Programming 2\Prog54d\Prog54d\obj\Debug\net6.0\Prog54d.csproj.CoreCompileInputs.cache
+C:\Users\kubala.j\Desktop\Programming 2\Prog54d\Prog54d\obj\Debug\net6.0\Prog54d.dll
+C:\Users\kubala.j\Desktop\Programming 2\Prog54d\Prog54d\obj\Debug\net6.0\ref\Prog54d.dll
+C:\Users\kubala.j\Desktop\Programming 2\Prog54d\Prog54d\obj\Debug\net6.0\Prog54d.pdb
+C:\Users\kubala.j\Desktop\Programming 2\Prog54d\Prog54d\obj\Debug\net6.0\Prog54d.genruntimeconfig.cache
