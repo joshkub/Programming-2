@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef46ed87-aae8-4883-ae7b-71a7f494dc19": {
+      "ProjectGuid": "ef46ed87-aae8-4883-ae7b-71a7f494dc19",
+      "DisplayName": "Prog122a",
+      "ColorIndex": 0
+    },
+    "76041042-4e32-4e39-a56b-8caa9aaaea22": {
+      "ProjectGuid": "76041042-4e32-4e39-a56b-8caa9aaaea22",
+      "DisplayName": "Prog122a",
+      "ColorIndex": 1
+    },
+    "20ded968-f119-40d6-adb3-e6b34b8b25f1": {
+      "ProjectGuid": "20ded968-f119-40d6-adb3-e6b34b8b25f1",
+      "DisplayName": "WinFormsApp1",
+      "ColorIndex": 2
+    },
+    "9548b361-54b2-4f0b-b5d8-621cfa8cff41": {
+      "ProjectGuid": "9548b361-54b2-4f0b-b5d8-621cfa8cff41",
+      "DisplayName": "Prog85c",
+      "ColorIndex": 3
+    },
+    "6fcc4129-427d-4edd-ad9b-f8518e0f376f": {
+      "ProjectGuid": "6fcc4129-427d-4edd-ad9b-f8518e0f376f",
+      "DisplayName": "Prog54b",
+      "ColorIndex": 4
+    },
+    "e1e0facb-dc03-4aea-9ffd-2b7fef39e105": {
+      "ProjectGuid": "e1e0facb-dc03-4aea-9ffd-2b7fef39e105",
+      "DisplayName": "AboutMe",
+      "ColorIndex": 5
+    },
+    "bbaf312c-041d-4932-b534-288902e475ea": {
+      "ProjectGuid": "bbaf312c-041d-4932-b534-288902e475ea",
+      "DisplayName": "Pg273",
+      "ColorIndex": 6
+    },
+    "16167a64-76b9-4a7a-9768-484f1d182821": {
+      "ProjectGuid": "16167a64-76b9-4a7a-9768-484f1d182821",
+      "DisplayName": "Pg266",
+      "ColorIndex": 7
+    },
+    "8ab646f4-060b-4118-bb2e-ca34f153a940": {
+      "ProjectGuid": "8ab646f4-060b-4118-bb2e-ca34f153a940",
+      "DisplayName": "Calc(Functions)",
+      "ColorIndex": 8
+    },
+    "51496f7d-f760-4311-a0c3-edc55643b834": {
+      "ProjectGuid": "51496f7d-f760-4311-a0c3-edc55643b834",
+      "DisplayName": "Pg435TicketSales",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

@@ -1,0 +1,16 @@
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg266\bin\Debug\net6.0-windows\Pg266.exe
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg266\bin\Debug\net6.0-windows\Pg266.deps.json
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg266\bin\Debug\net6.0-windows\Pg266.runtimeconfig.json
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg266\bin\Debug\net6.0-windows\Pg266.dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg266\bin\Debug\net6.0-windows\ref\Pg266.dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg266\bin\Debug\net6.0-windows\Pg266.pdb
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg266\obj\Debug\net6.0-windows\Pg266.Form1.resources
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg266\obj\Debug\net6.0-windows\Pg266.csproj.GenerateResource.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg266\obj\Debug\net6.0-windows\Pg266.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg266\obj\Debug\net6.0-windows\Pg266.AssemblyInfoInputs.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg266\obj\Debug\net6.0-windows\Pg266.AssemblyInfo.cs
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg266\obj\Debug\net6.0-windows\Pg266.csproj.CoreCompileInputs.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg266\obj\Debug\net6.0-windows\Pg266.dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg266\obj\Debug\net6.0-windows\ref\Pg266.dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg266\obj\Debug\net6.0-windows\Pg266.pdb
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg266\obj\Debug\net6.0-windows\Pg266.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ConsoleApp1\bin\Debug\net6.0\Calc(Functions).exe
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ConsoleApp1\bin\Debug\net6.0\Calc(Functions).deps.json
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ConsoleApp1\bin\Debug\net6.0\Calc(Functions).runtimeconfig.json
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ConsoleApp1\bin\Debug\net6.0\Calc(Functions).dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ConsoleApp1\bin\Debug\net6.0\ref\Calc(Functions).dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ConsoleApp1\bin\Debug\net6.0\Calc(Functions).pdb
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ConsoleApp1\obj\Debug\net6.0\Calc(Functions).csproj.AssemblyReference.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ConsoleApp1\obj\Debug\net6.0\Calc(Functions).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ConsoleApp1\obj\Debug\net6.0\Calc(Functions).AssemblyInfoInputs.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ConsoleApp1\obj\Debug\net6.0\Calc(Functions).AssemblyInfo.cs
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ConsoleApp1\obj\Debug\net6.0\Calc(Functions).csproj.CoreCompileInputs.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ConsoleApp1\obj\Debug\net6.0\Calc(Functions).dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ConsoleApp1\obj\Debug\net6.0\ref\Calc(Functions).dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ConsoleApp1\obj\Debug\net6.0\Calc(Functions).pdb
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ConsoleApp1\obj\Debug\net6.0\Calc(Functions).genruntimeconfig.cache

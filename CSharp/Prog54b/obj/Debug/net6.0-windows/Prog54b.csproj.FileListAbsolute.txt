@@ -1,0 +1,17 @@
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\bin\Debug\net6.0-windows\Prog54b.exe
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\bin\Debug\net6.0-windows\Prog54b.deps.json
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\bin\Debug\net6.0-windows\Prog54b.runtimeconfig.json
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\bin\Debug\net6.0-windows\Prog54b.dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\bin\Debug\net6.0-windows\ref\Prog54b.dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\bin\Debug\net6.0-windows\Prog54b.pdb
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\obj\Debug\net6.0-windows\Prog54b.csproj.AssemblyReference.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\obj\Debug\net6.0-windows\Prog54b.Form1.resources
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\obj\Debug\net6.0-windows\Prog54b.csproj.GenerateResource.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\obj\Debug\net6.0-windows\Prog54b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\obj\Debug\net6.0-windows\Prog54b.AssemblyInfoInputs.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\obj\Debug\net6.0-windows\Prog54b.AssemblyInfo.cs
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\obj\Debug\net6.0-windows\Prog54b.csproj.CoreCompileInputs.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\obj\Debug\net6.0-windows\Prog54b.dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\obj\Debug\net6.0-windows\ref\Prog54b.dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\obj\Debug\net6.0-windows\Prog54b.pdb
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Prog54b\obj\Debug\net6.0-windows\Prog54b.genruntimeconfig.cache

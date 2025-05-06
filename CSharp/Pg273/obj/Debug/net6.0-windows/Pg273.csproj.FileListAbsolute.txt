@@ -1,0 +1,17 @@
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\obj\Debug\net6.0-windows\Pg273.csproj.AssemblyReference.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\obj\Debug\net6.0-windows\Pg273.Form1.resources
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\obj\Debug\net6.0-windows\Pg273.csproj.GenerateResource.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\obj\Debug\net6.0-windows\Pg273.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\obj\Debug\net6.0-windows\Pg273.AssemblyInfoInputs.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\obj\Debug\net6.0-windows\Pg273.AssemblyInfo.cs
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\obj\Debug\net6.0-windows\Pg273.csproj.CoreCompileInputs.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\bin\Debug\net6.0-windows\Pg273.exe
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\bin\Debug\net6.0-windows\Pg273.deps.json
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\bin\Debug\net6.0-windows\Pg273.runtimeconfig.json
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\bin\Debug\net6.0-windows\Pg273.dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\bin\Debug\net6.0-windows\ref\Pg273.dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\bin\Debug\net6.0-windows\Pg273.pdb
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\obj\Debug\net6.0-windows\Pg273.dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\obj\Debug\net6.0-windows\ref\Pg273.dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\obj\Debug\net6.0-windows\Pg273.pdb
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg273\obj\Debug\net6.0-windows\Pg273.genruntimeconfig.cache
