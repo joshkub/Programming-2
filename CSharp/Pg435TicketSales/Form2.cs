@@ -24,5 +24,43 @@ namespace Pg435TicketSales
             this.myParent.Show();
             this.Close();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            // Input
+            double tktPrice = 0;
+            double tktAmount = int.Parse(textBox1.Text);
+
+            // Section Selector
+            if (radioButton1.Checked)
+            {
+                tktPrice = 20;
+            }
+            else if (radioButton2.Checked)
+            {
+                tktPrice = 15;
+            }
+            else if (radioButton3.Checked)
+            {
+                tktPrice = 10;
+            }
+            else
+            {
+                MessageBox.Show ("No Section Selected");
+                
+            };
+
+            // Calculation
+            double tktTax = (tktPrice * tktAmount) * 0.06;
+            double total = (tktPrice * tktAmount) + tktTax;
+
+            // Output
+            label5.Text = tktAmount.ToString();
+            label6.Text = tktTax.ToString();
+            label7.Text = total.ToString();
+        } 
+            
+        
+
     }
 }

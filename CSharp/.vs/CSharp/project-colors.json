@@ -50,7 +50,22 @@
       "ProjectGuid": "51496f7d-f760-4311-a0c3-edc55643b834",
       "DisplayName": "Pg435TicketSales",
       "ColorIndex": 9
+    },
+    "1090a477-1115-4217-a9ea-d86bcc075ad1": {
+      "ProjectGuid": "1090a477-1115-4217-a9ea-d86bcc075ad1",
+      "DisplayName": "Prog366b",
+      "ColorIndex": 10
+    },
+    "92838074-9c70-4ad2-bef4-e4068d505f79": {
+      "ProjectGuid": "92838074-9c70-4ad2-bef4-e4068d505f79",
+      "DisplayName": "Pg347",
+      "ColorIndex": 11
+    },
+    "00cd56f5-a941-4436-8b2d-d5849ce98a95": {
+      "ProjectGuid": "00cd56f5-a941-4436-8b2d-d5849ce98a95",
+      "DisplayName": "Pg498",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 13
 }

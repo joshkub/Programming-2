@@ -10,7 +10,7 @@ namespace Pg435TicketSales
         private void button1_Click(object sender, EventArgs e)
         {
             //general 
-            Form2 frm = new Form2();
+            Form2 frm = new Form2(this);
             frm.Show();
             this.Hide();
         }
@@ -18,7 +18,7 @@ namespace Pg435TicketSales
         private void button2_Click(object sender, EventArgs e)
         {
             //student
-            Form3 frm = new Form3();
+            Form3 frm = new Form3(this);
             frm.Show();
             this.Hide();
         }

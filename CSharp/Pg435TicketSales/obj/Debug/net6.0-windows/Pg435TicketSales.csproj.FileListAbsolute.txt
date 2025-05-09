@@ -16,3 +16,4 @@ C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg435TicketSales\obj\Debug\net6.0
 C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg435TicketSales\obj\Debug\net6.0-windows\ref\Pg435TicketSales.dll
 C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg435TicketSales\obj\Debug\net6.0-windows\Pg435TicketSales.pdb
 C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg435TicketSales\obj\Debug\net6.0-windows\Pg435TicketSales.genruntimeconfig.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\Pg435TicketSales\obj\Debug\net6.0-windows\Pg435TicketSales.csproj.AssemblyReference.cache
