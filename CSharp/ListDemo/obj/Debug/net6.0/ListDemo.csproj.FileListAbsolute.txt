@@ -1,0 +1,15 @@
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ListDemo\obj\Debug\net6.0\ListDemo.csproj.AssemblyReference.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ListDemo\obj\Debug\net6.0\ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ListDemo\obj\Debug\net6.0\ListDemo.AssemblyInfoInputs.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ListDemo\obj\Debug\net6.0\ListDemo.AssemblyInfo.cs
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ListDemo\obj\Debug\net6.0\ListDemo.csproj.CoreCompileInputs.cache
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ListDemo\bin\Debug\net6.0\ListDemo.exe
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ListDemo\bin\Debug\net6.0\ListDemo.deps.json
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ListDemo\bin\Debug\net6.0\ListDemo.runtimeconfig.json
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ListDemo\bin\Debug\net6.0\ListDemo.dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ListDemo\bin\Debug\net6.0\ref\ListDemo.dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ListDemo\bin\Debug\net6.0\ListDemo.pdb
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ListDemo\obj\Debug\net6.0\ListDemo.dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ListDemo\obj\Debug\net6.0\ref\ListDemo.dll
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ListDemo\obj\Debug\net6.0\ListDemo.pdb
+C:\Users\kubala.j\Desktop\Programming 2\CSharp\ListDemo\obj\Debug\net6.0\ListDemo.genruntimeconfig.cache
